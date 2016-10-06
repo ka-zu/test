@@ -3841,7 +3841,7 @@ public class MidiFileWriter
 
 
 	// ドラムB5
-	protected void Song5PercussionA( byte ch, byte vel )
+	protected void Song5PercussionB( byte ch, byte vel )
 	{
 		try
 		{
